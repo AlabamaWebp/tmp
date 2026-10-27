@@ -1,0 +1,6 @@
+Dynamic Context Pruning	Очень высокий	Уменьшить расход контекста Qwen
+OpenCode Loop	Очень высокий	Автономные циклы разработки
+Plannotator	Высокий	Удобно проверять планы и изменения
+Browser Plugin	Высокий	Автоматический UI/UX QA
+Supermemory	Средний	Сохранять знания между сессиями
+OpenCode Telemetry	Средний	Измерять эффективность агента
